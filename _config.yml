@@ -1,0 +1,8 @@
+title: TikTok Shop EU Unit Economics
+description: Evidence-led formulas and reconciliation methods for TikTok Shop Europe.
+theme: minima
+url: https://myeyesareopen.github.io
+baseurl: /tiktok-shop-eu-unit-economics
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
